@@ -8,6 +8,5 @@
 
 🌱 Trying to learn Go and React Native
 
-🕹 Currently playing [Minecraft Dungeons](https://www.minecraft.net/en-us/about-dungeons/)
-
+🕹 Currently playing nothing 😟
 ⚡ Loading...
