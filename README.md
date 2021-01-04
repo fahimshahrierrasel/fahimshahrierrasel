@@ -11,3 +11,5 @@
 🕹 Currently playing nothing 😟
 
 ⚡ Loading...
+
+![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=fahimshahrierrasel&show_icons=true)
