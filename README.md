@@ -8,7 +8,7 @@
 
 🌱 Trying to learn Go and React Native
 
-🕹 Currently playing nothing 😟
+🕹 Currently playing FIFA 21 ⚽
 
 ⚡ Loading...
 
